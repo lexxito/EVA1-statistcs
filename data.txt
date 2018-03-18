@@ -1,0 +1,1430 @@
+---Reproducability
+
+@article{DBLP:journals/bioinformatics/MenegidioJON18,
+  author    = {Fabiano B. Menegidio and
+               Daniela L. Jabes and
+               Regina Costa de Oliveira and
+               Luiz R. Nunes},
+  title     = {Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility
+               and replicability for bioinformatics analyses},
+  journal   = {Bioinformatics},
+  volume    = {34},
+  number    = {3},
+  pages     = {514--515},
+  year      = {2018},
+  url       = {https://doi.org/10.1093/bioinformatics/btx554},
+  doi       = {10.1093/bioinformatics/btx554},
+  timestamp = {Thu, 15 Feb 2018 17:56:02 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/bioinformatics/MenegidioJON18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/cmpb/Lopez-Fernandez18,
+  author    = {Hugo L{\'{o}}pez{-}Fern{\'{a}}ndez and
+               Jose E. Ara{\'{u}}jo and
+               Susana Jorge and
+               Daniel Glez{-}Pe{\~{n}}a and
+               Miguel Reboiro{-}Jato and
+               Hugo Miguel Santos and
+               Florentino Fdez{-}Riverola and
+               Jos{\'{e}} L. Capelo},
+  title     = {{S2P:} {A} software tool to quickly carry out reproducible biomedical
+               research projects involving 2D-gel and {MALDI-TOF} {MS} protein data},
+  journal   = {Computer Methods and Programs in Biomedicine},
+  volume    = {155},
+  pages     = {1--9},
+  year      = {2018},
+  url       = {https://doi.org/10.1016/j.cmpb.2017.11.024},
+  doi       = {10.1016/j.cmpb.2017.11.024},
+  timestamp = {Fri, 23 Feb 2018 14:51:19 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/cmpb/Lopez-Fernandez18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/jamia/AlmugbelHHAOTY18,
+  author    = {Reem Almugbel and
+               Ling{-}Hong Hung and
+               Jiaming Hu and
+               Abeer Almutairy and
+               Nicole Ortogero and
+               Yashaswi Tamta and
+               Ka Yee Yeung},
+  title     = {Reproducible Bioconductor workflows using browser-based interactive
+               notebooks and containers},
+  journal   = {{JAMIA}},
+  volume    = {25},
+  number    = {1},
+  pages     = {4--12},
+  year      = {2018},
+  url       = {https://doi.org/10.1093/jamia/ocx120},
+  doi       = {10.1093/jamia/ocx120},
+  timestamp = {Mon, 22 Jan 2018 14:32:25 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/jamia/AlmugbelHHAOTY18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/fini/Passerat-Palmbach17,
+  author    = {Jonathan Passerat{-}Palmbach and
+               Romain Reuillon and
+               Mathieu Leclaire and
+               Antonios Makropoulos and
+               Emma C. Robinson and
+               Sarah Parisot and
+               Daniel Rueckert},
+  title     = {Reproducible Large-Scale Neuroimaging Studies with the OpenMOLE Workflow
+               Management System},
+  journal   = {Front. Neuroinform.},
+  volume    = {2017},
+  year      = {2017},
+  url       = {https://doi.org/10.3389/fninf.2017.00021},
+  doi       = {10.3389/fninf.2017.00021},
+  timestamp = {Sat, 16 Sep 2017 12:05:40 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/fini/Passerat-Palmbach17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/bmsb/Rassool17,
+  author    = {Reza Rassool},
+  title     = {{VMAF} reproducibility: Validating a perceptual practical video quality
+               metric},
+  booktitle = {2017 {IEEE} International Symposium on Broadband Multimedia Systems
+               and Broadcasting, {BMSB} 2017, Cagliari, Italy, June 7-9, 2017},
+  pages     = {1--2},
+  year      = {2017},
+  crossref  = {DBLP:conf/bmsb/2017},
+  url       = {https://doi.org/10.1109/BMSB.2017.7986143},
+  doi       = {10.1109/BMSB.2017.7986143},
+  timestamp = {Tue, 25 Jul 2017 09:59:41 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/bmsb/Rassool17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/icassp/BezzamSAPSBHBFK17,
+  author    = {Eric Bezzam and
+               Robin Scheibler and
+               Juan Azcarreta and
+               Hanjie Pan and
+               Matthieu Simeoni and
+               Rene Beuchat and
+               Paul Hurley and
+               Basile Bruneau and
+               Corentin Ferry and
+               Sepand Kashani},
+  title     = {Hardware and software for reproducible research in audio array signal
+               processing},
+  booktitle = {2017 {IEEE} International Conference on Acoustics, Speech and Signal
+               Processing, {ICASSP} 2017, New Orleans, LA, USA, March 5-9, 2017},
+  pages     = {6591--6592},
+  year      = {2017},
+  crossref  = {DBLP:conf/icassp/2017},
+  url       = {https://doi.org/10.1109/ICASSP.2017.8005297},
+  doi       = {10.1109/ICASSP.2017.8005297},
+  timestamp = {Tue, 15 Aug 2017 20:47:24 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icassp/BezzamSAPSBHBFK17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/icassp/BezzamSAPSBHBFK17,
+  author    = {Eric Bezzam and
+               Robin Scheibler and
+               Juan Azcarreta and
+               Hanjie Pan and
+               Matthieu Simeoni and
+               Rene Beuchat and
+               Paul Hurley and
+               Basile Bruneau and
+               Corentin Ferry and
+               Sepand Kashani},
+  title     = {Hardware and software for reproducible research in audio array signal
+               processing},
+  booktitle = {2017 {IEEE} International Conference on Acoustics, Speech and Signal
+               Processing, {ICASSP} 2017, New Orleans, LA, USA, March 5-9, 2017},
+  pages     = {6591--6592},
+  year      = {2017},
+  crossref  = {DBLP:conf/icassp/2017},
+  url       = {https://doi.org/10.1109/ICASSP.2017.8005297},
+  doi       = {10.1109/ICASSP.2017.8005297},
+  timestamp = {Tue, 15 Aug 2017 20:47:24 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icassp/BezzamSAPSBHBFK17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/infocom/JimenezHLMMAAR17,
+  author    = {Ivo Jimenez and
+               Sina Hamedian and
+               Jay F. Lofstead and
+               Carlos Maltzahn and
+               Kathryn Mohror and
+               Remzi H. Arpaci{-}Dusseau and
+               Andrea C. Arpaci{-}Dusseau and
+               Robert Ricci},
+  title     = {Demo abstract: PopperCI: Automated reproducibility validation},
+  booktitle = {2017 {IEEE} Conference on Computer Communications Workshops, {INFOCOM}
+               Workshops, Atlanta, GA, USA, May 1-4, 2017},
+  pages     = {952--953},
+  year      = {2017},
+  crossref  = {DBLP:conf/infocom/2017w},
+  url       = {https://doi.org/10.1109/INFCOMW.2017.8116506},
+  doi       = {10.1109/INFCOMW.2017.8116506},
+  timestamp = {Thu, 30 Nov 2017 16:47:38 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/JimenezHLMMAAR17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ipps/JimenezSWMLMAA17,
+  author    = {Ivo Jimenez and
+               Michael Sevilla and
+               Noah Watkins and
+               Carlos Maltzahn and
+               Jay F. Lofstead and
+               Kathryn Mohror and
+               Andrea C. Arpaci{-}Dusseau and
+               Remzi H. Arpaci{-}Dusseau},
+  title     = {The Popper Convention: Making Reproducible Systems Evaluation Practical},
+  booktitle = {2017 {IEEE} International Parallel and Distributed Processing Symposium
+               Workshops, {IPDPS} Workshops 2017, Orlando / Buena Vista, FL, USA,
+               May 29 - June 2, 2017},
+  pages     = {1561--1570},
+  year      = {2017},
+  crossref  = {DBLP:conf/ipps/2017w},
+  url       = {https://doi.org/10.1109/IPDPSW.2017.157},
+  doi       = {10.1109/IPDPSW.2017.157},
+  timestamp = {Mon, 10 Jul 2017 21:06:40 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ipps/JimenezSWMLMAA17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/abs-1709-01154,
+  author    = {Fernando Chirigati and
+               Rebecca Capone and
+               Dennis E. Shasha and
+               R{\'{e}}mi Rampin and
+               Juliana Freire},
+  title     = {A Collaborative Approach to Computational Reproducibility},
+  journal   = {CoRR},
+  volume    = {abs/1709.01154},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1709.01154},
+  archivePrefix = {arXiv},
+  eprint    = {1709.01154},
+  timestamp = {Thu, 05 Oct 2017 09:42:54 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1709-01154},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/em/BaileyBBR17,
+  author    = {David H. Bailey and
+               Jonathan M. Borwein and
+               Richard P. Brent and
+               Mohsen Reisi},
+  title     = {Reproducibility in Computational Science: {A} Case Study: Randomness
+               of the Digits of Pi},
+  journal   = {Experimental Mathematics},
+  volume    = {26},
+  number    = {3},
+  pages     = {298--305},
+  year      = {2017},
+  url       = {https://doi.org/10.1080/10586458.2016.1163755},
+  doi       = {10.1080/10586458.2016.1163755},
+  timestamp = {Fri, 19 May 2017 14:35:22 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/em/BaileyBBR17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/em/Ganz17,
+  author    = {Reinhard E. Ganz},
+  title     = {Reply to "Reproducibility in Computational Science: {A} Case Study:
+               Randomness of the Digits of Pi" [Bailey et al. 17]},
+  journal   = {Experimental Mathematics},
+  volume    = {26},
+  number    = {3},
+  pages     = {306--307},
+  year      = {2017},
+  url       = {https://doi.org/10.1080/10586458.2016.1173413},
+  doi       = {10.1080/10586458.2016.1173413},
+  timestamp = {Fri, 19 May 2017 14:35:22 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/em/Ganz17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/bmcbi/HatakeyamaORQSR16,
+  author    = {Masaomi Hatakeyama and
+               Lennart Opitz and
+               Giancarlo Russo and
+               Weihong Qi and
+               Ralph Schlapbach and
+               Hubert Rehrauer},
+  title     = {{SUSHI:} an exquisite recipe for fully documented, reproducible and
+               reusable {NGS} data analysis},
+  journal   = {{BMC} Bioinformatics},
+  volume    = {17},
+  pages     = {228},
+  year      = {2016},
+  url       = {https://doi.org/10.1186/s12859-016-1104-8},
+  doi       = {10.1186/s12859-016-1104-8},
+  timestamp = {Fri, 26 May 2017 22:52:07 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/bmcbi/HatakeyamaORQSR16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/is/ChirigatiCRFS16,
+  author    = {Fernando Chirigati and
+               Rebecca Capone and
+               R{\'{e}}mi Rampin and
+               Juliana Freire and
+               Dennis E. Shasha},
+  title     = {A collaborative approach to computational reproducibility},
+  journal   = {Inf. Syst.},
+  volume    = {59},
+  pages     = {95--97},
+  year      = {2016},
+  url       = {https://doi.org/10.1016/j.is.2016.03.002},
+  doi       = {10.1016/j.is.2016.03.002},
+  timestamp = {Sat, 16 Sep 2017 12:04:08 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/is/ChirigatiCRFS16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/tcdl/RauberAUP16,
+  author    = {Andreas Rauber and
+               Ari Asmi and
+               Dieter Van Uytvanck and
+               Stefan Pr{\"{o}}ll},
+  title     = {Identification of Reproducible Subsets for Data Citation, Sharing
+               and Re-Use},
+  journal   = {{TCDL} Bulletin},
+  volume    = {12},
+  number    = {1},
+  year      = {2016},
+  url       = {http://www.ieee-tcdl.org/Bulletin/v12n1/papers/IEEE-TCDL-DC-2016_paper_1.pdf},
+  timestamp = {Fri, 30 Jun 2017 12:57:05 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/tcdl/RauberAUP16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/psb/CallahanPRFH16,
+  author    = {Benjamin J. Callahan and
+               Diana Proctor and
+               David A. Relman and
+               Julia Fukuyama and
+               Susan P. Holmes},
+  title     = {Reproducible Research Workflow in {R} for the Analysis of Personalized
+               Human Microbiome Data},
+  booktitle = {Biocomputing 2016: Proceedings of the Pacific Symposium, Kohala Coast,
+               Hawaii, USA, January 4-8, 2016},
+  pages     = {183--194},
+  year      = {2016},
+  crossref  = {DBLP:conf/psb/2016},
+  url       = {http://psb.stanford.edu/psb-online/proceedings/psb16/callahan.pdf},
+  timestamp = {Sat, 06 May 2017 01:33:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/psb/CallahanPRFH16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/sigmod/ChirigatiRSF16,
+  author    = {Fernando Chirigati and
+               R{\'{e}}mi Rampin and
+               Dennis E. Shasha and
+               Juliana Freire},
+  title     = {ReproZip: Computational Reproducibility With Ease},
+  booktitle = {Proceedings of the 2016 International Conference on Management of
+               Data, {SIGMOD} Conference 2016, San Francisco, CA, USA, June 26 -
+               July 01, 2016},
+  pages     = {2085--2088},
+  year      = {2016},
+  crossref  = {DBLP:conf/sigmod/2016},
+  url       = {http://doi.acm.org/10.1145/2882903.2899401},
+  doi       = {10.1145/2882903.2899401},
+  timestamp = {Sat, 16 Sep 2017 12:08:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/sigmod/ChirigatiRSF16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/fini/GlatardLSABLRRS15,
+  author    = {Tristan Glatard and
+               Lindsay B. Lewis and
+               Rafael Ferreira da Silva and
+               Reza Adalat and
+               Natacha Beck and
+               Claude Lepage and
+               Pierre Rioux and
+               Marc{-}Etienne Rousseau and
+               Tarek Sherif and
+               Ewa Deelman and
+               Najmeh Khalili{-}Mahani and
+               Alan C. Evans},
+  title     = {Reproducibility of neuroimaging analyses across operating systems},
+  journal   = {Front. Neuroinform.},
+  volume    = {2015},
+  year      = {2015},
+  url       = {https://doi.org/10.3389/fninf.2015.00012},
+  doi       = {10.3389/fninf.2015.00012},
+  timestamp = {Tue, 06 Jun 2017 22:25:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/fini/GlatardLSABLRRS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/closer/HashamMMS15,
+  author    = {Khawar Hasham and
+               Kamran Munir and
+               Richard McClatchey and
+               Jetendr Shamdasani},
+  title     = {Re-provisioning of Cloud-Based Execution Infrastructure Using the
+               Cloud-Aware Provenance to Facilitate Scientific Workflow Execution
+               Reproducibility},
+  booktitle = {Cloud Computing and Services Science - 5th International Conference,
+               {CLOSER} 2015, Lisbon, Portugal, May 20-22, 2015, Revised Selected
+               Papers},
+  pages     = {74--94},
+  year      = {2015},
+  crossref  = {DBLP:conf/closer/2015s},
+  url       = {https://doi.org/10.1007/978-3-319-29582-4_5},
+  doi       = {10.1007/978-3-319-29582-4_5},
+  timestamp = {Thu, 15 Jun 2017 21:37:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/closer/HashamMMS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ic2e/JimenezMMMLAA15,
+  author    = {Ivo Jimenez and
+               Carlos Maltzahn and
+               Adam Moody and
+               Kathryn Mohror and
+               Jay F. Lofstead and
+               Remzi H. Arpaci{-}Dusseau and
+               Andrea C. Arpaci{-}Dusseau},
+  title     = {The Role of Container Technology in Reproducible Computer Systems
+               Research},
+  booktitle = {2015 {IEEE} International Conference on Cloud Engineering, {IC2E}
+               2015, Tempe, AZ, USA, March 9-13, 2015},
+  pages     = {379--385},
+  year      = {2015},
+  crossref  = {DBLP:conf/ic2e/2015},
+  url       = {https://doi.org/10.1109/IC2E.2015.75},
+  doi       = {10.1109/IC2E.2015.75},
+  timestamp = {Thu, 25 May 2017 00:42:54 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ic2e/JimenezMMMLAA15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ntms/AbtSB15,
+  author    = {Sebastian Abt and
+               Reinhard Stampp and
+               Harald Baier},
+  title     = {Towards reproducible cyber-security research through complex node
+               automation},
+  booktitle = {7th International Conference on New Technologies, Mobility and Security,
+               {NTMS} 2015, Paris, France, July 27-29, 2015},
+  pages     = {1--5},
+  year      = {2015},
+  crossref  = {DBLP:conf/ntms/2015},
+  url       = {https://doi.org/10.1109/NTMS.2015.7266527},
+  doi       = {10.1109/NTMS.2015.7266527},
+  timestamp = {Wed, 24 May 2017 08:30:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ntms/AbtSB15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/sc/JimenezMLMMAA15,
+  author    = {Ivo Jimenez and
+               Carlos Maltzahn and
+               Jay F. Lofstead and
+               Adam Moody and
+               Kathryn Mohror and
+               Remzi H. Arpaci{-}Dusseau and
+               Andrea C. Arpaci{-}Dusseau},
+  title     = {Tackling the reproducibility problem in storage systems research with
+               declarative experiment specifications},
+  booktitle = {Proceedings of the 10th Parallel Data Storage Workshop, {PDSW} 2015,
+               Austin, Texas, USA, November 15, 2015},
+  pages     = {25--30},
+  year      = {2015},
+  crossref  = {DBLP:conf/sc/2015pdsw},
+  url       = {http://doi.acm.org/10.1145/2834976.2834979},
+  doi       = {10.1145/2834976.2834979},
+  timestamp = {Thu, 25 Jan 2018 07:05:10 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/sc/JimenezMLMMAA15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jdi/BalagurunathanKGKWLGHKZSBEGG14,
+  author    = {Yoganand Balagurunathan and
+               Virendra Kumar and
+               Yuhua Gu and
+               Jongphil Kim and
+               Hua Wang and
+               Ying Liu and
+               Dmitry B. Goldgof and
+               Lawrence O. Hall and
+               Ren{\'{e}} Korn and
+               Binsheng Zhao and
+               Lawrence H. Schwartz and
+               Satrajit Basu and
+               Steven Eschrich and
+               Robert A. Gatenby and
+               Robert J. Gillies},
+  title     = {Test-Retest Reproducibility Analysis of Lung {CT} Image Features},
+  journal   = {J. Digital Imaging},
+  volume    = {27},
+  number    = {6},
+  pages     = {805--823},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/s10278-014-9716-x},
+  doi       = {10.1007/s10278-014-9716-x},
+  timestamp = {Tue, 06 Jun 2017 22:17:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/jdi/BalagurunathanKGKWLGHKZSBEGG14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/tmi/ZolgharniDCBJSTWFF14,
+  author    = {Massoud Zolgharni and
+               Niti M. Dhutia and
+               Graham D. Cole and
+               M. Reza Bahmanyar and
+               Siana Jones and
+               S. M. Afzal Sohaib and
+               Sarah B. Tai and
+               Keith Willson and
+               Judith A. Finegold and
+               Darrel P. Francis},
+  title     = {Automated Aortic Doppler Flow Tracing for Reproducible Research and
+               Clinical Measurements},
+  journal   = {{IEEE} Trans. Med. Imaging},
+  volume    = {33},
+  number    = {5},
+  pages     = {1071--1082},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/TMI.2014.2303782},
+  doi       = {10.1109/TMI.2014.2303782},
+  timestamp = {Sat, 16 Sep 2017 12:06:17 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/tmi/ZolgharniDCBJSTWFF14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/pldi/JaninVD14,
+  author    = {Yves Janin and
+               C{\'{e}}dric Vincent and
+               R{\'{e}}mi Duraffort},
+  title     = {CARE, the comprehensive archiver for reproducible execution},
+  booktitle = {Proceedings of the 1st {ACM} {SIGPLAN} Workshop on Reproducible Research
+               Methodologies and New Publication Models in Computer Engineering,
+               {TRUST} 2014, Edinburgh, United Kingdom, June 9-11, 2014},
+  pages     = {1:1--1:7},
+  year      = {2014},
+  crossref  = {DBLP:conf/pldi/2014trust},
+  url       = {http://doi.acm.org/10.1145/2618137.2618138},
+  doi       = {10.1145/2618137.2618138},
+  timestamp = {Tue, 26 May 2015 15:52:16 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pldi/JaninVD14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/ArabasBGGHHHKKMPPRR14,
+  author    = {Sylwester Arabas and
+               Michael R. Bareford and
+               Ian P. Gent and
+               Benjamin M. Gorman and
+               Masih Hajiarabderkani and
+               Tristan Henderson and
+               Luke Hutton and
+               Alexander Konovalov and
+               Lars Kotthoff and
+               Ciaran McCreesh and
+               Ruma R. Paul and
+               Karen E. Petrie and
+               Abdul Razaq and
+               Dani{\"{e}}l Reijsbergen},
+  title     = {An Open and Reproducible Paper on Openness and Reproducibility of
+               Papers in Computational Science},
+  journal   = {CoRR},
+  volume    = {abs/1408.2123},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1408.2123},
+  archivePrefix = {arXiv},
+  eprint    = {1408.2123},
+  timestamp = {Wed, 27 Dec 2017 02:26:29 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/ArabasBGGHHHKKMPPRR14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/globecom/WongSFK13,
+  author    = {Daji Wong and
+               Kiam Tian Seow and
+               Chuan Heng Foh and
+               Renuga Kanagavelu},
+  title     = {Towards reproducible performance studies of datacenter network architectures
+               using an open-source simulation approach},
+  booktitle = {2013 {IEEE} Global Communications Conference, {GLOBECOM} 2013, Atlanta,
+               GA, USA, December 9-13, 2013},
+  pages     = {1373--1378},
+  year      = {2013},
+  crossref  = {DBLP:conf/globecom/2013},
+  url       = {https://doi.org/10.1109/GLOCOM.2013.6831265},
+  doi       = {10.1109/GLOCOM.2013.6831265},
+  timestamp = {Fri, 28 Apr 2017 22:15:31 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/globecom/WongSFK13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/iccbr/Recio-GarciaDG13,
+  author    = {Juan A. Recio{-}Garc{\'{\i}}a and
+               Bel{\'{e}}n D{\'{\i}}az{-}Agudo and
+               Pedro A. Gonz{\'{a}}lez{-}Calero},
+  title     = {The {COLIBRI} Open Platform for the Reproducibility of {CBR} Applications},
+  booktitle = {Case-Based Reasoning Research and Development - 21st International
+               Conference, {ICCBR} 2013, Saratoga Springs, NY, USA, July 8-11, 2013.
+               Proceedings},
+  pages     = {255--269},
+  year      = {2013},
+  crossref  = {DBLP:conf/iccbr/2013},
+  url       = {https://doi.org/10.1007/978-3-642-39056-2_19},
+  doi       = {10.1007/978-3-642-39056-2_19},
+  timestamp = {Thu, 15 Jun 2017 21:38:27 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iccbr/Recio-GarciaDG13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tbe/LaSorteRR12,
+  author    = {Nickolas J. LaSorte and
+               Samer A. Rajab and
+               Hazem H. Refai},
+  title     = {Developing a Reproducible Non-Line-of-Sight Experimental Setup for
+               Testing Wireless Medical Device Coexistence Utilizing ZigBee},
+  journal   = {{IEEE} Trans. Biomed. Engineering},
+  volume    = {59},
+  number    = {11-2},
+  pages     = {3221--3229},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/TBME.2012.2209422},
+  doi       = {10.1109/TBME.2012.2209422},
+  timestamp = {Sat, 27 May 2017 14:24:58 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/tbe/LaSorteRR12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tbe/LaSorteRR12,
+  author    = {Nickolas J. LaSorte and
+               Samer A. Rajab and
+               Hazem H. Refai},
+  title     = {Developing a Reproducible Non-Line-of-Sight Experimental Setup for
+               Testing Wireless Medical Device Coexistence Utilizing ZigBee},
+  journal   = {{IEEE} Trans. Biomed. Engineering},
+  volume    = {59},
+  number    = {11-2},
+  pages     = {3221--3229},
+  year      = {2012},
+  url       = {https://doi.org/10.1109/TBME.2012.2209422},
+  doi       = {10.1109/TBME.2012.2209422},
+  timestamp = {Sat, 27 May 2017 14:24:58 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/tbe/LaSorteRR12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/bibm/LifschitzGR11,
+  author    = {S{\'{e}}rgio Lifschitz and
+               Luciana S. A. Gomes and
+               Stevens K. Rehen},
+  title     = {Dealing with reusability and reproducibility for scientific workflows},
+  booktitle = {2011 {IEEE} International Conference on Bioinformatics and Biomedicine
+               Workshops, {BIBMW} 2011, Atlanta, GA, USA, November 12-15, 2011},
+  pages     = {625--632},
+  year      = {2011},
+  crossref  = {DBLP:conf/bibm/2011w},
+  url       = {https://doi.org/10.1109/BIBMW.2011.6112441},
+  doi       = {10.1109/BIBMW.2011.6112441},
+  timestamp = {Sat, 16 Sep 2017 12:07:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/bibm/LifschitzGR11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/icmc/RutzME11,
+  author    = {Hanns Holger Rutz and
+               Eduardo R. Miranda and
+               Gerhard Eckel},
+  title     = {Reproducibility and random access in sound synthesis},
+  booktitle = {Proceedings of the 2011 International Computer Music Conference, {ICMC}
+               2011, Huddersfield, UK, July 31 - August 5, 2011},
+  year      = {2011},
+  crossref  = {DBLP:conf/icmc/2011},
+  url       = {http://hdl.handle.net/2027/spo.bbp2372.2011.104},
+  timestamp = {Tue, 02 Feb 2016 16:17:37 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/icmc/RutzME11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/icphs/RedfordO11,
+  author    = {Melissa A. Redford and
+               Grace E. Oh},
+  title     = {Reproducing Singletons and Fake Geminates},
+  booktitle = {17th International Congress of Phonetic Sciences, ICPhS 2011, Hong
+               Kong, China, August 17-21, 2011},
+  pages     = {1674--1677},
+  year      = {2011},
+  crossref  = {DBLP:conf/icphs/2011},
+  url       = {https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2011/OnlineProceedings/RegularSession/Redford/Redford.pdf},
+  timestamp = {Thu, 27 Jul 2017 15:43:16 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icphs/RedfordO11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/cikm/HuqWA10,
+  author    = {Mohammad Rezwanul Huq and
+               Andreas Wombacher and
+               Peter M. G. Apers},
+  title     = {Identifying the challenges for optimizing the process to achieve reproducible
+               results in e-science applications},
+  booktitle = {Proceedings of the Third Ph.D. Workshop on Information and Knowledge
+               Management, {PIKM} 2010, Toronto, O1ntario, Canada, October 30, 2010},
+  pages     = {75--78},
+  year      = {2010},
+  crossref  = {DBLP:conf/cikm/2010pikm},
+  url       = {http://doi.acm.org/10.1145/1871902.1871916},
+  doi       = {10.1145/1871902.1871916},
+  timestamp = {Wed, 05 Jan 2011 22:03:02 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/cikm/HuqWA10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/bioinformatics/McShaneRFYLS02,
+  author    = {Lisa M. McShane and
+               Michael D. Radmacher and
+               Boris Freidlin and
+               Ren Yu and
+               Ming{-}Chung Li and
+               Richard M. Simon},
+  title     = {Methods for assessing reproducibility of clustering patterns observed
+               in analyses of microarray data},
+  journal   = {Bioinformatics},
+  volume    = {18},
+  number    = {11},
+  pages     = {1462--1469},
+  year      = {2002},
+  url       = {https://doi.org/10.1093/bioinformatics/18.11.1462},
+  doi       = {10.1093/bioinformatics/18.11.1462},
+  timestamp = {Sun, 28 May 2017 13:19:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/bioinformatics/McShaneRFYLS02},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+--- Repeatability
+2018
+@article{DBLP:journals/fini/BenureauR18,
+  author    = {Fabien C. Y. Benureau and
+               Nicolas P. Rougier},
+  title     = {Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into
+               Scientific Contributions},
+  journal   = {Front. Neuroinform.},
+  volume    = {2018},
+  year      = {2018},
+  url       = {https://doi.org/10.3389/fninf.2017.00069},
+  doi       = {10.3389/fninf.2017.00069},
+  timestamp = {Thu, 01 Mar 2018 12:35:05 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/fini/BenureauR18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/qre/HamadaSMR17,
+  author    = {Michael S. Hamada and
+               Stefan H. Steiner and
+               R. Jock MacKay and
+               C. Shane Reese},
+  title     = {Planning and Analyzing Experiments with Models that Distinguish Between
+               Replicates and Repeats},
+  journal   = {Quality and Reliability Eng. Int.},
+  volume    = {33},
+  number    = {3},
+  pages     = {657--668},
+  year      = {2017},
+  url       = {https://doi.org/10.1002/qre.2047},
+  doi       = {10.1002/qre.2047},
+  timestamp = {Fri, 26 May 2017 22:53:11 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/qre/HamadaSMR17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/dss/NolteBRPM16,
+  author    = {Alexander Nolte and
+               Eike Bernhard and
+               Jan Recker and
+               Fabian Pittke and
+               Jan Mendling},
+  title     = {Repeated use of process models: The impact of artifact, technological,
+               and individual factors},
+  journal   = {Decision Support Systems},
+  volume    = {88},
+  pages     = {98--111},
+  year      = {2016},
+  url       = {https://doi.org/10.1016/j.dss.2016.06.002},
+  doi       = {10.1016/j.dss.2016.06.002},
+  timestamp = {Mon, 05 Jun 2017 20:47:08 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/dss/NolteBRPM16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/re/NiuKNKSS16,
+  author    = {Nan Niu and
+               Amy Koshoffer and
+               Linda Newman and
+               Charu Khatwani and
+               Chatura Samarasinghe and
+               Juha Savolainen},
+  title     = {Advancing Repeated Research in Requirements Engineering: {A} Theoretical
+               Replication of Viewpoint Merging},
+  booktitle = {24th {IEEE} International Requirements Engineering Conference, {RE}
+               2016, Beijing, China, September 12-16, 2016},
+  pages     = {186--195},
+  year      = {2016},
+  crossref  = {DBLP:conf/re/2016},
+  url       = {https://doi.org/10.1109/RE.2016.46},
+  doi       = {10.1109/RE.2016.46},
+  timestamp = {Thu, 28 Sep 2017 13:37:47 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/re/NiuKNKSS16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/DesseroitTWSRVH16,
+  author    = {Marie{-}Charlotte Desseroit and
+               Florent Tixier and
+               Wolfgang Weber and
+               Barry A. Siegel and
+               Catherine Cheze{-}Le Rest and
+               Dimitris Visvikis and
+               Mathieu Hatt},
+  title     = {Reliability of {PET/CT} shape and heterogeneity features in functional
+               and morphological components of Non-Small Cell Lung Cancer tumors:
+               a repeatability analysis in a prospective multi-center cohort},
+  journal   = {CoRR},
+  volume    = {abs/1610.01390},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1610.01390},
+  archivePrefix = {arXiv},
+  eprint    = {1610.01390},
+  timestamp = {Wed, 07 Jun 2017 14:41:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/DesseroitTWSRVH16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/siamis/Rey-OteroD15,
+  author    = {Ives Rey{-}Otero and
+               Mauricio Delbracio},
+  title     = {Is Repeatability an Unbiased Criterion for Ranking Feature Detectors?},
+  journal   = {{SIAM} J. Imaging Sciences},
+  volume    = {8},
+  number    = {4},
+  pages     = {2558--2580},
+  year      = {2015},
+  url       = {https://doi.org/10.1137/15M1007732},
+  doi       = {10.1137/15M1007732},
+  timestamp = {Sat, 20 May 2017 00:26:11 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/siamis/Rey-OteroD15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/rcdl/RauberMMP15,
+  author    = {Andreas Rauber and
+               Tomasz Miksa and
+               Rudolf Mayer and
+               Stefan Pr{\"{o}}ll},
+  title     = {Repeatability and Re-usability in Scientific Processes: Process Context,
+               Data Identification and Verification},
+  booktitle = {Selected Papers of the {XVII} International Conference on Data Analytics
+               and Management in Data Intensive Domains {(DAMDID/RCDL} 2015), Obninsk,
+               Russia, October 13-16, 2015.},
+  pages     = {246--256},
+  year      = {2015},
+  crossref  = {DBLP:conf/rcdl/2015},
+  url       = {http://ceur-ws.org/Vol-1536/paper33.pdf},
+  timestamp = {Mon, 30 May 2016 16:28:37 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/rcdl/RauberMMP15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ipres/WestKP14,
+  author    = {Brent West and
+               Joanne Kaczmarek and
+               Jordan Phoenix},
+  title     = {Sustainable, justifiable, repeatable: {A} digital preservation strategy
+               using metrics-based (re)appraisal},
+  booktitle = {Proceedings of the 11th International Conference on Digital Preservation,
+               iPRES 2014, Melbourne, Australia, October 6 - 10, 2014},
+  year      = {2014},
+  crossref  = {DBLP:conf/ipres/2014},
+  url       = {http://hdl.handle.net/11353/10.378703},
+  timestamp = {Mon, 02 Oct 2017 15:57:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ipres/WestKP14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/Rey-OteroDM14,
+  author    = {Ives Rey{-}Otero and
+               Mauricio Delbracio and
+               Jean{-}Michel Morel},
+  title     = {Comparing Feature Detectors: {A} bias in the repeatability criteria,
+               and how to correct it},
+  journal   = {CoRR},
+  volume    = {abs/1409.2465},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1409.2465},
+  archivePrefix = {arXiv},
+  eprint    = {1409.2465},
+  timestamp = {Wed, 07 Jun 2017 14:41:24 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/Rey-OteroDM14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@article{DBLP:journals/cj/RensfeltHGLB11,
+  author    = {Olof Rensfelt and
+               Frederik Hermans and
+               Per Gunningberg and
+               Lars{-}{\AA}ke Larzon and
+               Erik Bj{\"{o}}rnemo},
+  title     = {Repeatable Experiments with Mobile Nodes in a Relocatable {WSN} Testbed},
+  journal   = {Comput. J.},
+  volume    = {54},
+  number    = {12},
+  pages     = {1973--1986},
+  year      = {2011},
+  url       = {https://doi.org/10.1093/comjnl/bxr052},
+  doi       = {10.1093/comjnl/bxr052},
+  timestamp = {Sat, 20 May 2017 00:22:29 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/cj/RensfeltHGLB11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/neuroimage/RemesSNOBTKS11,
+  author    = {Jukka J. Remes and
+               Tuomo Starck and
+               Juha Nikkinen and
+               Esa Ollila and
+               Christian F. Beckmann and
+               Osmo Tervonen and
+               Vesa Kiviniemi and
+               Olli Silv{\'{e}}n},
+  title     = {Effects of repeatability measures on results of fMRI sICA: {A} study
+               on simulated and real resting-state effects},
+  journal   = {NeuroImage},
+  volume    = {56},
+  number    = {2},
+  pages     = {554--569},
+  year      = {2011},
+  url       = {https://doi.org/10.1016/j.neuroimage.2010.04.268},
+  doi       = {10.1016/j.neuroimage.2010.04.268},
+  timestamp = {Thu, 08 Jun 2017 09:09:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/neuroimage/RemesSNOBTKS11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/sigmod/BonnetMBCGGHIIJKKMOPRTYFS11,
+  author    = {Philippe Bonnet and
+               Stefan Manegold and
+               Matias Bj{\o}rling and
+               Wei Cao and
+               Javier Gonzalez and
+               Joel A. Granados and
+               Nancy Hall and
+               Stratos Idreos and
+               Milena Ivanova and
+               Ryan Johnson and
+               David Koop and
+               Tim Kraska and
+               Ren{\'{e}} M{\"{u}}ller and
+               Dan Olteanu and
+               Paolo Papotti and
+               Christine Reilly and
+               Dimitris Tsirogiannis and
+               Cong Yu and
+               Juliana Freire and
+               Dennis E. Shasha},
+  title     = {Repeatability and workability evaluation of {SIGMOD} 2011},
+  journal   = {{SIGMOD} Record},
+  volume    = {40},
+  number    = {2},
+  pages     = {45--48},
+  year      = {2011},
+  url       = {http://doi.acm.org/10.1145/2034863.2034873},
+  doi       = {10.1145/2034863.2034873},
+  timestamp = {Sat, 30 Dec 2017 11:46:44 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/sigmod/BonnetMBCGGHIIJKKMOPRTYFS11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/csda/VontheinZ10,
+  author    = {Reinhard Vonthein and
+               Andreas Ziegler},
+  title     = {On the Use of the Terms Repeatability and Reproducibility Regarding
+               "Reproducibility of genotypes as measured by the Affymetrix GeneChip(R)
+               100 {K} Human Mapping Array Set" by Fridley and colleagues {(2008)}
+               Comput. Stat. Data Anal. 52: 5367-5374},
+  journal   = {Computational Statistics {\&} Data Analysis},
+  volume    = {54},
+  number    = {4},
+  pages     = {803},
+  year      = {2010},
+  url       = {https://doi.org/10.1016/j.csda.2009.12.006},
+  doi       = {10.1016/j.csda.2009.12.006},
+  timestamp = {Mon, 05 Jun 2017 20:49:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/csda/VontheinZ10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/tridentcom/HermansRGLN10,
+  author    = {Frederik Hermans and
+               Olof Rensfelt and
+               Per Gunningberg and
+               Lars{-}{\AA}ke Larzon and
+               Edith C. H. Ngai},
+  title     = {Sensei-UU - {A} Relocatable {WSN} Testbed Supporting Repeatable Node
+               Mobility},
+  booktitle = {Testbeds and Research Infrastructures. Development of Networks and
+               Communities - 6th International {ICST} Conference, TridentCom 2010,
+               Berlin, Germany, May 18-20, 2010, Revised Selected Papers},
+  pages     = {612--614},
+  year      = {2010},
+  crossref  = {DBLP:conf/tridentcom/2010},
+  url       = {https://doi.org/10.1007/978-3-642-17851-1_57},
+  doi       = {10.1007/978-3-642-17851-1_57},
+  timestamp = {Wed, 24 May 2017 08:30:54 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/tridentcom/HermansRGLN10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/sigmod/ManegoldMAFGHHKKLLORSSWS09,
+  author    = {Stefan Manegold and
+               Ioana Manolescu and
+               Loredana Afanasiev and
+               Jianlin Feng and
+               Gang Gou and
+               Marios Hadjieleftheriou and
+               Stavros Harizopoulos and
+               Panos Kalnis and
+               Konstantinos Karanasos and
+               Dominique Laurent and
+               Mihai Lupu and
+               Nicola Onose and
+               Christopher R{\'{e}} and
+               Virginie Sans and
+               Pierre Senellart and
+               T. Wu and
+               Dennis E. Shasha},
+  title     = {Repeatability {\&} workability evaluation of {SIGMOD} 2009},
+  journal   = {{SIGMOD} Record},
+  volume    = {38},
+  number    = {3},
+  pages     = {40--43},
+  year      = {2009},
+  url       = {http://doi.acm.org/10.1145/1815933.1815944},
+  doi       = {10.1145/1815933.1815944},
+  timestamp = {Thu, 08 Jun 2017 08:59:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/sigmod/ManegoldMAFGHHKKLLORSSWS09},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/isb/BajpaiSRJ07,
+  author    = {Anjali Bajpai and
+               Settu Sridhar and
+               Hemakumar M. Reddy and
+               Rachel A. Jesudasan},
+  title     = {BRM-Parser: {A} Tool for Comprehensive Analysis of {BLAST} and RepeatMasker
+               Results},
+  journal   = {In Silico Biology},
+  volume    = {7},
+  number    = {4-5},
+  pages     = {399--403},
+  year      = {2007},
+  url       = {http://content.iospress.com/articles/in-silico-biology/isb00297},
+  timestamp = {Mon, 18 May 2015 17:23:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/isb/BajpaiSRJ07},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isbi/EncisoABKM04,
+  author    = {Reyes Enciso and
+               Emanuel Alexandroni and
+               Krystal Benyamein and
+               Robert Keim and
+               James Mah},
+  title     = {Precision, Repeatability And Validation of Indirect 3D Anthropometric
+               Measurements With Light-Based Imaging Techniques},
+  booktitle = {Proceedings of the 2004 {IEEE} International Symposium on Biomedical
+               Imaging: From Nano to Macro, Arlington, VA, USA, 15-18 April 2004},
+  pages     = {1119--1122},
+  year      = {2004},
+  crossref  = {DBLP:conf/isbi/2004},
+  timestamp = {Tue, 21 Jun 2016 10:32:17 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/isbi/EncisoABKM04},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+--- Recomputability
+@article{DBLP:journals/dbsk/KrickeGS17,
+  author    = {Matthias Kricke and
+               Martin Grimmer and
+               Michael Schmei{\ss}er},
+  title     = {Preserving Recomputability of Results from Big Data Transformation
+               Workflows - Depending on External Systems and Human Interactions},
+  journal   = {Datenbank-Spektrum},
+  volume    = {17},
+  number    = {3},
+  pages     = {245--253},
+  year      = {2017},
+  url       = {https://doi.org/10.1007/s13222-017-0265-6},
+  doi       = {10.1007/s13222-017-0265-6},
+  timestamp = {Wed, 03 Jan 2018 09:42:47 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/dbsk/KrickeGS17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/btw/KrickeGS17,
+  author    = {Matthias Kricke and
+               Martin Grimmer and
+               Michael Schmei{\ss}er},
+  title     = {Preserving Recomputability of Results from Big Data Transformation
+               Workflows},
+  booktitle = {Datenbanksysteme f{\"{u}}r Business, Technologie und Web {(BTW}
+               2017), 17. Fachtagung des GI-Fachbereichs ,,Datenbanken und Informationssysteme"
+               (DBIS), 6.-10. M{\"{a}}rz 2017, Stuttgart, Germany, Workshopband},
+  pages     = {227--235},
+  year      = {2017},
+  crossref  = {DBLP:conf/btw/2017w},
+  timestamp = {Wed, 03 Jan 2018 09:42:49 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/btw/KrickeGS17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/psb/KaushikISTDK17,
+  author    = {Gaurav Kaushik and
+               Sinisa Ivkovic and
+               Janko Simonovic and
+               Nebojsa Tijanic and
+               Brandi Davis{-}Dusenbery and
+               Deniz Kural},
+  title     = {Rabix: An Open-Source Workflow Executor Supporting Recomputability
+               and Interoperability of Workflow Descriptions},
+  booktitle = {Biocomputing 2017: Proceedings of the Pacific Symposium, Kohala Coast,
+               Hawaii, USA, January 3-7, 2017},
+  pages     = {154--165},
+  year      = {2017},
+  crossref  = {DBLP:conf/psb/2017},
+  url       = {http://psb.stanford.edu/psb-online/proceedings/psb17/kaushik.pdf},
+  timestamp = {Sun, 07 May 2017 01:27:12 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/psb/KaushikISTDK17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ucc/WehrleLVR14,
+  author    = {Dennis Wehrle and
+               Thomas Liebetraut and
+               Isgandar Valizada and
+               Klaus Rechert},
+  title     = {Emulation-as-a-Service - Workflows and Infrastructure to Support Recomputable
+               Science},
+  booktitle = {Proceedings of the 7th {IEEE/ACM} International Conference on Utility
+               and Cloud Computing, {UCC} 2014, London, United Kingdom, December
+               8-11, 2014},
+  pages     = {962--967},
+  year      = {2014},
+  crossref  = {DBLP:conf/ucc/2014},
+  url       = {https://doi.org/10.1109/UCC.2014.157},
+  doi       = {10.1109/UCC.2014.157},
+  timestamp = {Sun, 21 May 2017 00:19:14 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ucc/WehrleLVR14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/BilardiS16,
+  author    = {Gianfranco Bilardi and
+               Lorenzo De Stefani},
+  title     = {The {I/O} complexity of Strassen's matrix multiplication with recomputation},
+  journal   = {CoRR},
+  volume    = {abs/1605.02224},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1605.02224},
+  archivePrefix = {arXiv},
+  eprint    = {1605.02224},
+  timestamp = {Wed, 07 Jun 2017 14:40:23 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/BilardiS16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+--- Reusability
+
+@inproceedings{DBLP:conf/re/Duran17,
+  author    = {Mustafa Berk Duran},
+  title     = {Reusable Goal Models},
+  booktitle = {25th {IEEE} International Requirements Engineering Conference, {RE}
+               2017, Lisbon, Portugal, September 4-8, 2017},
+  pages     = {532--537},
+  year      = {2017},
+  crossref  = {DBLP:conf/re/2017},
+  url       = {https://doi.org/10.1109/RE.2017.34},
+  doi       = {10.1109/RE.2017.34},
+  timestamp = {Thu, 28 Sep 2017 13:58:16 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/re/Duran17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/bmcbi/HatakeyamaORQSR16,
+  author    = {Masaomi Hatakeyama and
+               Lennart Opitz and
+               Giancarlo Russo and
+               Weihong Qi and
+               Ralph Schlapbach and
+               Hubert Rehrauer},
+  title     = {{SUSHI:} an exquisite recipe for fully documented, reproducible and
+               reusable {NGS} data analysis},
+  journal   = {{BMC} Bioinformatics},
+  volume    = {17},
+  pages     = {228},
+  year      = {2016},
+  url       = {https://doi.org/10.1186/s12859-016-1104-8},
+  doi       = {10.1186/s12859-016-1104-8},
+  timestamp = {Fri, 26 May 2017 22:52:07 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/bmcbi/HatakeyamaORQSR16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/eurocrypt/CanettiFPRS16,
+  author    = {Ran Canetti and
+               Benjamin Fuller and
+               Omer Paneth and
+               Leonid Reyzin and
+               Adam D. Smith},
+  title     = {Reusable Fuzzy Extractors for Low-Entropy Distributions},
+  booktitle = {Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International
+               Conference on the Theory and Applications of Cryptographic Techniques,
+               Vienna, Austria, May 8-12, 2016, Proceedings, Part {I}},
+  pages     = {117--146},
+  year      = {2016},
+  crossref  = {DBLP:conf/eurocrypt/2016-1},
+  url       = {https://doi.org/10.1007/978-3-662-49890-3_5},
+  doi       = {10.1007/978-3-662-49890-3_5},
+  timestamp = {Wed, 24 May 2017 08:31:21 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/eurocrypt/CanettiFPRS16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/re/HauksdottirRAM16,
+  author    = {Dagny Hauksdottir and
+               Brian Ritsing and
+               Jens Christian Andersen and
+               Niels Henrik Mortensen},
+  title     = {Establishing Reusable Requirements Derived from Laws and Regulations
+               for Medical Device Development},
+  booktitle = {24th {IEEE} International Requirements Engineering Conference, {RE}
+               2016, Beijing, China, September 12-16, 2016},
+  pages     = {220--228},
+  year      = {2016},
+  crossref  = {DBLP:conf/re/2016},
+  url       = {https://doi.org/10.1109/REW.2016.045},
+  doi       = {10.1109/REW.2016.045},
+  timestamp = {Thu, 28 Sep 2017 13:37:47 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/re/HauksdottirRAM16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ic3k/LefebvreSO15,
+  author    = {Armel Lefebvre and
+               Marco R. Spruit and
+               Wienand A. Omta},
+  title     = {Towards Reusability of Computational Experiments},
+  booktitle = {{KDIR} 2015 - Proceedings of the International Conference on Knowledge
+               Discovery and Information Retrieval, part of the 7th International
+               Joint Conference on Knowledge Discovery, Knowledge Engineering and
+               Knowledge Management {(IC3K} 2015), Volume 1, Lisbon, Portugal, November
+               12-14, 2015},
+  pages     = {456--462},
+  year      = {2015},
+  crossref  = {DBLP:conf/ic3k/2015kdir},
+  url       = {https://doi.org/10.5220/0005631604560462},
+  doi       = {10.5220/0005631604560462},
+  timestamp = {Fri, 19 May 2017 01:25:06 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ic3k/LefebvreSO15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/wsc/DjanatlievBG14,
+  author    = {Anatoli Djanatliev and
+               Peter Bazan and
+               Reinhard German},
+  title     = {Partial paradigm hiding and reusability in hybrid simulation modeling
+               using the frameworks health-DS and i7-AnyEnergy},
+  booktitle = {Proceedings of the 2014 Winter Simulation Conference, Savannah, GA,
+               USA, December 7-10, 2014},
+  pages     = {1723--1734},
+  year      = {2014},
+  crossref  = {DBLP:conf/wsc/2014},
+  url       = {https://doi.org/10.1109/WSC.2014.7020022},
+  doi       = {10.1109/WSC.2014.7020022},
+  timestamp = {Wed, 17 May 2017 10:54:31 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/wsc/DjanatlievBG14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ictai/SanchezRD13,
+  author    = {Lara Quijano S{\'{a}}nchez and
+               Juan A. Recio{-}Garc{\'{\i}}a and
+               Bel{\'{e}}n D{\'{\i}}az{-}Agudo},
+  title     = {A Reusable Methodology for the Instantiation of Social Recommender
+               Systems},
+  booktitle = {2013 {IEEE} 25th International Conference on Tools with Artificial
+               Intelligence, Herndon, VA, USA, November 4-6, 2013},
+  pages     = {775--782},
+  year      = {2013},
+  crossref  = {DBLP:conf/ictai/2013},
+  url       = {https://doi.org/10.1109/ICTAI.2013.119},
+  doi       = {10.1109/ICTAI.2013.119},
+  timestamp = {Fri, 26 May 2017 00:51:10 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ictai/SanchezRD13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/medinfo/GreenesPRO13,
+  author    = {Robert A. Greenes and
+               Mor Peleg and
+               Alan L. Rector and
+               Jerome A. Osheroff},
+  title     = {Reusable Knowledge for Best Clinical Practices: Why We Have Difficulty
+               Sharing and What We Can Do},
+  booktitle = {{MEDINFO} 2013 - Proceedings of the 14th World Congress on Medical
+               and Health Informatics, 20-13 August 2013, Copenhagen, Denmark},
+  pages     = {1237},
+  year      = {2013},
+  crossref  = {DBLP:conf/medinfo/2013},
+  timestamp = {Thu, 27 Aug 2015 18:39:34 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/medinfo/GreenesPRO13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/esem/AnguswamyF12,
+  author    = {Reghu Anguswamy and
+               William B. Frakes},
+  title     = {A study of reusability, complexity, and reuse design principles},
+  booktitle = {2012 {ACM-IEEE} International Symposium on Empirical Software Engineering
+               and Measurement, {ESEM} '12, Lund, Sweden - September 19 - 20, 2012},
+  pages     = {161--164},
+  year      = {2012},
+  crossref  = {DBLP:conf/esem/2012},
+  url       = {http://doi.acm.org/10.1145/2372251.2372280},
+  doi       = {10.1145/2372251.2372280},
+  timestamp = {Mon, 04 Aug 2014 17:08:35 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/esem/AnguswamyF12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/ictai/GangatPC12,
+  author    = {Yassine Gangat and
+               Denis Payet and
+               R{\'{e}}my Courdier},
+  title     = {Another Step toward Reusability in Agent-Based Simulation: Multi-behaviors
+               {\&} aMVC},
+  booktitle = {{IEEE} 24th International Conference on Tools with Artificial Intelligence,
+               {ICTAI} 2012, Athens, Greece, November 7-9, 2012},
+  pages     = {1112--1119},
+  year      = {2012},
+  crossref  = {DBLP:conf/ictai/2012},
+  url       = {https://doi.org/10.1109/ICTAI.2012.158},
+  doi       = {10.1109/ICTAI.2012.158},
+  timestamp = {Fri, 26 May 2017 00:51:06 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ictai/GangatPC12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/bibm/LifschitzGR11,
+  author    = {S{\'{e}}rgio Lifschitz and
+               Luciana S. A. Gomes and
+               Stevens K. Rehen},
+  title     = {Dealing with reusability and reproducibility for scientific workflows},
+  booktitle = {2011 {IEEE} International Conference on Bioinformatics and Biomedicine
+               Workshops, {BIBMW} 2011, Atlanta, GA, USA, November 12-15, 2011},
+  pages     = {625--632},
+  year      = {2011},
+  crossref  = {DBLP:conf/bibm/2011w},
+  url       = {https://doi.org/10.1109/BIBMW.2011.6112441},
+  doi       = {10.1109/BIBMW.2011.6112441},
+  timestamp = {Sat, 16 Sep 2017 12:07:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/bibm/LifschitzGR11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/re/CysneirosWK05,
+  author    = {Luiz Marcio Cysneiros and
+               Vera Werneck and
+               Andr{\'{e}} Kushniruk},
+  title     = {Reusable Knowledge for Satisficing Usability Requirements},
+  booktitle = {13th {IEEE} International Conference on Requirements Engineering {(RE}
+               2005), 29 August - 2 September 2005, Paris, France},
+  pages     = {463--464},
+  year      = {2005},
+  crossref  = {DBLP:conf/re/2005},
+  url       = {https://doi.org/10.1109/RE.2005.60},
+  doi       = {10.1109/RE.2005.60},
+  timestamp = {Mon, 22 May 2017 17:11:54 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/re/CysneirosWK05},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+--- Replicability
+@article{DBLP:journals/bioinformatics/MenegidioJON18,
+  author    = {Fabiano B. Menegidio and
+               Daniela L. Jabes and
+               Regina Costa de Oliveira and
+               Luiz R. Nunes},
+  title     = {Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility
+               and replicability for bioinformatics analyses},
+  journal   = {Bioinformatics},
+  volume    = {34},
+  number    = {3},
+  pages     = {514--515},
+  year      = {2018},
+  url       = {https://doi.org/10.1093/bioinformatics/btx554},
+  doi       = {10.1093/bioinformatics/btx554},
+  timestamp = {Thu, 15 Feb 2018 17:56:02 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/bioinformatics/MenegidioJON18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/neuroimage/WallerWKRMEV17,
+  author    = {Lea Waller and
+               Henrik Walter and
+               Johann Daniel Kruschwitz and
+               Lucia Reuter and
+               Sabine M{\"{u}}ller and
+               Susanne Erk and
+               Ilya M. Veer},
+  title     = {Evaluating the replicability, specificity, and generalizability of
+               connectome fingerprints},
+  journal   = {NeuroImage},
+  volume    = {158},
+  pages     = {371--377},
+  year      = {2017},
+  url       = {https://doi.org/10.1016/j.neuroimage.2017.07.016},
+  doi       = {10.1016/j.neuroimage.2017.07.016},
+  timestamp = {Sun, 24 Dec 2017 12:06:32 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/neuroimage/WallerWKRMEV17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/diagrams/AhlersHHKRRS14,
+  author    = {Volker Ahlers and
+               Felix Heine and
+               Bastian Hellmann and
+               Carsten Kleiner and
+               Leonard Renners and
+               Thomas Rossow and
+               Ralf Steuerwald},
+  title     = {Replicable Security Monitoring: Visualizing Time-Variant Graphs of
+               Network Metadata},
+  booktitle = {Joint Proceedings of the Fourth International Workshop on Euler Diagrams
+               and the First International Workshop on Graph Visualization in Practice
+               co-located with Diagrams 2014, Melbourne, Australia, July 28th and
+               1st August 2014.},
+  pages     = {32--41},
+  year      = {2014},
+  crossref  = {DBLP:conf/diagrams/2014edgvip},
+  url       = {http://ceur-ws.org/Vol-1244/GViP-paper1.pdf},
+  timestamp = {Wed, 27 Dec 2017 02:26:29 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/diagrams/AhlersHHKRRS14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/amia/KokBPSGH12,
+  author    = {Linda Kok and
+               Margaret M. Browning and
+               Ruth A. Perrin and
+               Kevin Stroupe and
+               Kristin de Groot and
+               Denise M. Hynes},
+  title     = {Good Documentation Practices for Research Replicability, Re-use and
+               Archiving},
+  booktitle = {{AMIA} 2012, American Medical Informatics Association Annual Symposium,
+               Chicago, Illinois, USA, November 3-7, 2012},
+  year      = {2012},
+  crossref  = {DBLP:conf/amia/2012},
+  url       = {http://knowledge.amia.org/amia-55142-a2012a-1.636547/t-007-1.639272/f-001-1.639273/a-432-1.639903/a-433-1.639900},
+  timestamp = {Fri, 18 Jul 2014 13:09:23 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/amia/KokBPSGH12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/icml/Bouckaert04,
+  author    = {Remco R. Bouckaert},
+  title     = {Estimating replicability of classifier learning experiments},
+  booktitle = {Machine Learning, Proceedings of the Twenty-first International Conference
+               {(ICML} 2004), Banff, Alberta, Canada, July 4-8, 2004},
+  year      = {2004},
+  crossref  = {DBLP:conf/icml/2004},
+  url       = {http://doi.acm.org/10.1145/1015330.1015338},
+  doi       = {10.1145/1015330.1015338},
+  timestamp = {Mon, 22 Oct 2007 13:54:01 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icml/Bouckaert04},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/pakdd/BouckaertF04,
+  author    = {Remco R. Bouckaert and
+               Eibe Frank},
+  title     = {Evaluating the Replicability of Significance Tests for Comparing Learning
+               Algorithms},
+  booktitle = {Advances in Knowledge Discovery and Data Mining, 8th Pacific-Asia
+               Conference, {PAKDD} 2004, Sydney, Australia, May 26-28, 2004, Proceedings},
+  pages     = {3--12},
+  year      = {2004},
+  crossref  = {DBLP:conf/pakdd/2004},
+  url       = {https://doi.org/10.1007/978-3-540-24775-3_3},
+  doi       = {10.1007/978-3-540-24775-3_3},
+  timestamp = {Tue, 30 May 2017 12:57:44 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pakdd/BouckaertF04},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
