@@ -1,4 +1,4 @@
----Reproducability
+---Reproducibility
 
 @article{DBLP:journals/bioinformatics/MenegidioJON18,
   author    = {Fabiano B. Menegidio and
