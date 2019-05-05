@@ -1,0 +1,40 @@
+% This is the root file of your thesis: thesis.tex
+% A line starting with % is a comment. In some cases, I have included a command preceded by a %. You may activate the command by removing the %.
+
+%%===================================
+\documentclass[12pt]{report}
+\usepackage{ramsstyle}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\usepackage{rotating}
+\usepackage[title]{appendix}
+
+
+%%===================================
+%Write the various parts of your thesis as separate files and include them into the main file by the command \include{name of included file}. When you compile the LaTeX file, you may choose which subfiles to include by the command
+
+%\includeonly{chapter01,chapter02}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Large}
+%%===================================
+\begin{document}
+\include{front} % This is the titlepage
+\setcounter{page}{0}
+\pagenumbering{roman}
+\tableofcontents
+\setcounter{page}{0}
+\pagenumbering{arabic}
+\include{chapter01}
+\include{chapter02}
+\include{chapter03}
+% Include more appendices as required.
+%%=========================================
+\bibliographystyle{unsrt}
+\addcontentsline{toc}{chapter}{\bibname}
+\bibliography{refs}  
+
+\begin{appendices}
+\section{APPENDIX. References for all works}
+\end{appendices}
+
+\end{document}
